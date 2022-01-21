@@ -238,7 +238,15 @@ public class Main {
     }
 
     static void Citations() {
-
+        String[] cite = new String[] {
+                "\"History of Java - Javatpoint.\" N.p., n.d. Web. 21 Jan. 2022 <https://www.javatpoint.com/history-of-java>.",
+                "\"History of Java programming language | www.freejavaguide.com.\" N.p., n.d. Web. 21 Jan. 2022 <https://www.freejavaguide.com/history.html>.",
+                "\"James Gosling on Apple, Apache, Google, Oracle and the Future of ....\" N.p., n.d. Web. 21 Jan. 2022 <https://www.youtube.com/watch?v=9ei-rbULWoA>.",
+                "\"A Short History of Java So, what is Java?.\" N.p., n.d. Web. 21 Jan. 2022 <http://www.socs.uoguelph.ca/~qmahmoud/teaching/fall2004/dcct1020/java-intro.pdf>.",
+                "\"Mike Sheridan - BIO.\" N.p., n.d. Web. 21 Jan. 2022 <https://govinfo.library.unt.edu/acoas/nominations/sheridanbio.htm>.",
+                "\"Mike Sheridan – BlueChair Group, Inc..\" N.p., n.d. Web. 21 Jan. 2022 <https://www.bluechairgroup.com/team/mike-sheridan>.",
+                "\"Dessins, semaine : voici les dessins de la semaine !.\" N.p., n.d. Web. 21 Jan. 2022 <https://www.clubic.com/actualite-321500-dessins-semaine.html>.",
+                "\"The complete History of Java Programming Language ....\" N.p., n.d. Web. 21 Jan. 2022 <https://www.geeksforgeeks.org/the-complete-history-of-java-programming-language>." };
     }
 
     static <T> boolean contains(T[] array, T element) { // unused
